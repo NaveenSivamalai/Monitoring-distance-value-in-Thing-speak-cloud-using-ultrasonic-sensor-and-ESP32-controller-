@@ -1,6 +1,6 @@
 ## NAME: NAVEEN S
 ## REG. NO. : 212222110030
-## EX.6:Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller and Uploading ultrasonic sensor data in Thing Speak cloud
+## EX.6: Monitoring distance value in Thing speak cloud Using ultrasonic sensor and ESP32 controller and Uploading ultrasonic sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
